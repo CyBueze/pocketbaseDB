@@ -1,0 +1,7 @@
+# PocketBase data
+pb_data/
+pb_migrations/
+*.zip
+
+# Logs
+*.log
